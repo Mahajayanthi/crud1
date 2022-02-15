@@ -44,4 +44,5 @@ public class StudentController {
 	        Student stList = service.deleteStudentBystuId(stuId);
 	        return stList;
 	    }
+system.out.println("hi friends");
 }
